@@ -2,7 +2,7 @@
 👀 I’m interested in DevOps, cloud computing, automation, and continuous integration/continuous deployment (CI/CD) practices.
 🌱 I’m currently learning advanced Kubernetes, Terraform for infrastructure as code, Jenkins for automated pipelines, Docker for containerization, and Ansible for configuration management.
 💞️ I’m looking to collaborate on open-source DevOps projects, CI/CD pipeline automation, and cloud infrastructure setup using AWS and Azure.
-📫 How to reach me: You can reach me via email at consultantsrihari@example.com or connect with me on LinkedIn linkedin.com/in/venkata-sri-hari-152050303
+📫 How to reach me: You can reach me via email at sriharimalapati6@gmail.com or connect with me on LinkedIn linkedin.com/in/venkata-sri-hari-152050303
 .
 😄 Pronouns: He/Him
 ⚡ Fun fact: I can automate my coffee machine to brew a perfect cup of coffee as soon as my code successfully deploys!
